@@ -6,7 +6,7 @@ from telegram.constants import ParseMode
 import os
 TOKEN = '7663809864:AAEFOhMA2FV4wakw52fR6BfJ5-rN0gQmA1M'
 # List of user IDs that are exempt from message deletion
-EXEMPT_USER_IDS = [6545754981, 7379318591]  # Replace these with actual user IDs
+EXEMPT_USER_IDS = [6656608288, 6545754981, 7379318591]  # Replace these with actual user IDs
 
 # Define the owner’s user ID who can manage the exempt list
 OWNER_USER_ID = 7379318591  # Replace with the actual owner's user ID
